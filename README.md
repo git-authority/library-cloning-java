@@ -40,3 +40,13 @@ cd src
 javac *.java
 java Clone
 ```
+
+
+
+
+
+## 🛠 Requirements
+
+- Java 8 or later
+
+- VS Code or any Java-supported IDE
